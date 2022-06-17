@@ -1,34 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# LEXA-WEB3-DASHBOARD-WALLET
+## ![proj1](https://user-images.githubusercontent.com/71592960/174301435-e60ada35-42f3-44b0-be2e-1491af4cc86f.PNG)
+## ![proj2](https://user-images.githubusercontent.com/71592960/174301925-6f2d1af4-c767-4aeb-b949-e9c180db61a8.PNG)
+## ![proj3](https://user-images.githubusercontent.com/71592960/174301952-100752b3-8e3d-4a89-8a7c-55bcceed6214.PNG)
+## ![proj4](https://user-images.githubusercontent.com/71592960/174301964-13de2612-8f5b-4d5e-b2ff-6c01586bdd29.PNG)
+## ![proj5](https://user-images.githubusercontent.com/71592960/174301972-d3f19766-7f40-40df-9e26-ee231a6f6dc5.PNG)
+## ![proj6](https://user-images.githubusercontent.com/71592960/174301989-0032d456-7752-4526-8e54-75401fd86fbe.PNG)
